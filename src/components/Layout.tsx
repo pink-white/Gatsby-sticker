@@ -15,7 +15,7 @@ export default function Layout({ children, pageTitle }: ILayoutProps) {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="about-us">About US</Link>
+            <Link to="/about-us">About US</Link>
           </li>
           <li>
             <Link to="/blog">Blog</Link>
